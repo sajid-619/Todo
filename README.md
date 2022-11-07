@@ -221,7 +221,7 @@ PRIVATE_KEY=< Private key for JWT token >
 ### Installation
 
 ```
-git clone git@github.com:GokhanTurgut/todo-api.git
+git clone https://github.com/sajid-619/Todo.git
 npm install
 npm run build
 npm start
