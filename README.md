@@ -2,7 +2,6 @@
 
 Open source basic todo api with authentication that can be used by everyone for their personal projects.
 
-https://gokhan-todo-rest-api.herokuapp.com/
 
 ## Technologies
 
